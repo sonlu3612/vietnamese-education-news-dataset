@@ -1,0 +1,20 @@
+{
+    "id": 250,
+    "authors": [],
+    "date_download": "2025-10-30 22:05:22",
+    "date_modify": null,
+    "date_publish": "2025-09-01T00:01:24+0700",
+    "description": "Mỹ- Andrew Krapivin, 22 tuổi, chứng minh giả thuyết 40 năm tuổi liên quan đến bảng băm (hash table) là sai, được giới khoa học máy tính đánh giá là đột phá. - VnExpress",
+    "filename": "chang_trai_lat_nguoc_gia_thuyet_khoa_hoc_may_tinh_ton_tai_40_nam_4931249_html.json",
+    "image_url": "https://i2-vnexpress.vnecdn.net/2025/08/25/ccd745b4-b98d-472f-ab0b-d2508b-7937-5255-1756106582.jpg",
+    "language": "vi",
+    "localpath": null,
+    "maintext": "MỹAndrew Krapivin, 22 tuổi, chứng minh giả thuyết 40 năm tuổi liên quan đến bảng băm (hash table) là sai, được giới khoa học máy tính đánh giá là đột phá. Bảng băm đã được nghiên cứu và sử dụng từ những năm 1950 trong khoa học máy tính. Nó cho phép người dùng tìm kiếm, thêm, xóa thông tin trong một cơ sở dữ liệu lớn, quản lý mật khẩu, hay bộ nhớ đệm trong máy tính. Năm 1985, Andrew Yao, một chuyên gia về khoa học máy tính, đưa ra giả thuyết rằng, nếu bảng có bao nhiêu ô, thì trong trường hợp xấu nhất, cần phải thực hiện từng ấy bước để tìm ra một ô trống trong số đó. Tuy nhiên, Andrew Krapivin, 22 tuổi, học viên sau đại học ở Đại học Cambridge (Anh) cùng Giáo sư Martín Farach-Colton của Đại học New York và Phó giáo sư William Kuszmaul tại Đại học Carnegie Mellon (Mỹ) đã tìm ra một loại bảng băm mới, chứng minh rằng kể cả trong trường hợp xấu nhất, số bước cần thực hiện để tìm một ô trống ít hơn nhiều so với số ô trong bảng băm. Công trình được đăng tải trên arXiv, một kho lưu trữ các bài báo khoa học trực tuyến, vào tháng 1 năm nay. Theo Quantamagazine, trong các năm qua, hầu hết nhà khoa học máy tính đều tin giả thuyết của Yao là đúng. Các chuyên gia trong ngành đánh giá đây là bước đột phá. \"Krapivin không chỉ nghĩ ra một bảng băm thú vị, mà còn thực sự xóa bỏ giả thuyết tồn tại 40 năm\", phó giáo sư Kuszmaul chia sẻ. \"Hash table là một trong những cấu trúc dữ liệu lâu đời nhất và vẫn là cách lưu trữ dữ liệu hiệu quả nhất. Tuy nhiên vẫn còn những câu hỏi mở về cách chúng hoạt động, và bài báo này trả lời một vài trong số đó theo cách đáng ngạc nhiên\", Alex Conway, một chuyên gia từ Viện nghiên cứu sau đại học Cornell Tech của Đại học Cornell, nhận xét. Andrew Krapivin. Ảnh:Quantamagazine Krapivin, cựu sinh viên Đại học Rutgers, Mỹ, đã tìm ra loại bảng băm mới khi tìm kiếm thông tin về cách tiết kiệm bộ nhớ máy tính để tăng tốc truy vấn thông tin bằng việc tổ chức lại dữ liệu. Ban đầu, Giáo sư Martín Farach-Colton, người hướng dẫn Krapivin, nghi ngờ thiết kế mới này vì bảng băm là một trong những cấu trúc dữ liệu được nghiên cứu kỹ lưỡng nhất trong khoa học máy tính. Để chắc chắn, ông nhờ Phó giáo sư William Kuszmaul kiểm tra lại. Nhờ phát hiện này, năm 2023, Krapivin được trao học bổng Goldwater, một trong những học bổng danh giá nhất dành cho sinh viên ở Mỹ, nhằm khuyến khích nghiên cứu trong các lĩnh vực STEM (Khoa học, Kỹ thuật và Toán học). Năm ngoái, Krapivin trở thành sinh viên đầu tiên của Đại học Rutgers trong 10 năm qua nhận được học bổng Churchill, để theo học ở Đại học Cambridge, top 5 thế giới. Huyền Trang(theoQuantamagazine)",
+    "source_domain": "vnexpress.net",
+    "title": "Chàng trai lật ngược giả thuyết khoa học máy tính tồn tại 40 năm",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://vnexpress.net/chang-trai-lat-nguoc-gia-thuyet-khoa-hoc-may-tinh-ton-tai-40-nam-4931249.html",
+    "error": "",
+    "label": "real"
+}
